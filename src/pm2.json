@@ -1,0 +1,8 @@
+{
+    "apps": [
+        {
+            "name": "script",
+            "script": "/src/index.js"
+        }
+    ]
+}
